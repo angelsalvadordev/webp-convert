@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/imphVvI.png)
+- Comprimiento imagenes con Imagemin
 
 ```js
 const gulp = require('gulp');
@@ -17,7 +17,7 @@ gulp.task('imagemin', () => {
 
 ```
 
-![Imgur](https://i.imgur.com/FeAsPBW.png)
+- Usando imagenes webp
 
 ```js
 const gulp = require('gulp');
